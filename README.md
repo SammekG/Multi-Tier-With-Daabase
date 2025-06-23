@@ -25,3 +25,8 @@
 **#Login Back with Username and Password**
 
   #sudo mysql -u root -p
+
+**#Creat Database**
+
+  #CREATE DATABASE bankappdb;
+
